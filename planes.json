@@ -1,0 +1,6 @@
+[
+  { "nombre": "Plan Mensual", "precio": 300000 },
+  { "nombre": "Plan Semanal Premium (3 veces)", "precio": 100000 },
+  { "nombre": "Plan Semanal Super (2 veces)", "precio": 75000 },
+  { "nombre": "Plan Semanal Básico (1 vez)", "precio": 50000 }
+]

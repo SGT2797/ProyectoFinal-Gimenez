@@ -1,0 +1,19 @@
+[
+  {
+    "nombre completo": "María Nediani",
+    "dni": "30222444",
+    "email": "maria.nediani@gmail.com",
+    "dirección de domicilio": "Dpto 2 A Torre 5 Los Fresnos Capital",
+    "plan": "Plan Semanal Básico (1 vez)",
+    "precio": 50000
+  },
+  {
+    "nombre completo": "Mariano Díaz",
+    "dni": "29345678",
+    "email": "mariano_diaz@outlook.com",
+    "direccion de domicilio": "Avenida Manuel Belgrano 2258 Localidad de Moreno",
+    "plan": "Plan Mensual",
+    "precio": 300000
+  }
+]
+
